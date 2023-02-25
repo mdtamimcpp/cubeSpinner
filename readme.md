@@ -1,3 +1,3 @@
 ## Cube Spinner
 
-> This project was created using only `HTML` and `CSS`
+> This project was created for my **Under construction** page!
